@@ -1,0 +1,6 @@
+VERSION MOBILE COMPACTE - 23 octobre 2026
+
+Remplacer TOUS les fichiers du site GitHub Pages, notamment index.html et style.css.
+Après déploiement, ouvrir la page en navigation privée ou vider le cache.
+Le formulaire externe Eval&Go est réduit visuellement à 50% sur mobile.
+Son contenu reste sous le contrôle d’Eval&Go et peut nécessiter un défilement.
